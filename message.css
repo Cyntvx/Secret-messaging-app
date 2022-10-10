@@ -1,0 +1,9 @@
+.row{
+    margin-top: 20rem;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+h2{
+    margin-top: 0;
+}
